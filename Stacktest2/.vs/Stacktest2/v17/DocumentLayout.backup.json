@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Stacktest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81A9879-EBE7-4A7B-A190-1E16D0794C09}|Stacktest2\\Stacktest2.vcxproj|C:\\Users\\pc\\source\\repos\\Stacktest2\\Stacktest2\\Stacktest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D81A9879-EBE7-4A7B-A190-1E16D0794C09}|Stacktest2\\Stacktest2.vcxproj|solutionrelative:Stacktest2\\Stacktest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098DD020-BBA6-4729-BCED-E3FAED4D8032}|..\\MyDynamicLibrairyStack\\MyDynamicLibrairyStack.vcxproj|C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098DD020-BBA6-4729-BCED-E3FAED4D8032}|..\\MyDynamicLibrairyStack\\MyDynamicLibrairyStack.vcxproj|C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\StackList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098DD020-BBA6-4729-BCED-E3FAED4D8032}|..\\MyDynamicLibrairyStack\\MyDynamicLibrairyStack.vcxproj|C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098DD020-BBA6-4729-BCED-E3FAED4D8032}|..\\MyDynamicLibrairyStack\\MyDynamicLibrairyStack.vcxproj|C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098DD020-BBA6-4729-BCED-E3FAED4D8032}|..\\MyDynamicLibrairyStack\\MyDynamicLibrairyStack.vcxproj|C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098DD020-BBA6-4729-BCED-E3FAED4D8032}|..\\MyDynamicLibrairyStack\\MyDynamicLibrairyStack.vcxproj|C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\pch.cpp",
+              "RelativeDocumentMoniker": "..\\MyDynamicLibrairyStack\\pch.cpp",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\pch.cpp",
+              "RelativeToolTip": "..\\MyDynamicLibrairyStack\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T17:21:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackList.h",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\StackList.h",
+              "RelativeDocumentMoniker": "..\\MyDynamicLibrairyStack\\StackList.h",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\StackList.h",
+              "RelativeToolTip": "..\\MyDynamicLibrairyStack\\StackList.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T14:37:12.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\Node.h",
+              "RelativeDocumentMoniker": "..\\MyDynamicLibrairyStack\\Node.h",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\Node.h",
+              "RelativeToolTip": "..\\MyDynamicLibrairyStack\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:39:04.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\LinkedList.h",
+              "RelativeDocumentMoniker": "..\\MyDynamicLibrairyStack\\LinkedList.h",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\LinkedList.h",
+              "RelativeToolTip": "..\\MyDynamicLibrairyStack\\LinkedList.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:33:43.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\pch.h",
+              "RelativeDocumentMoniker": "..\\MyDynamicLibrairyStack\\pch.h",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\pch.h",
+              "RelativeToolTip": "..\\MyDynamicLibrairyStack\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T10:31:09.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.h",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\Stack.h",
+              "RelativeDocumentMoniker": "..\\MyDynamicLibrairyStack\\Stack.h",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyDynamicLibrairyStack\\Stack.h",
+              "RelativeToolTip": "..\\MyDynamicLibrairyStack\\Stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T10:28:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stacktest2.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Stacktest2\\Stacktest2\\Stacktest2.cpp",
+              "RelativeDocumentMoniker": "Stacktest2\\Stacktest2.cpp",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Stacktest2\\Stacktest2\\Stacktest2.cpp",
+              "RelativeToolTip": "Stacktest2\\Stacktest2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:15:24.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

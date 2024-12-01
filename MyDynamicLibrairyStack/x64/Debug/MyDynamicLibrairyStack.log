@@ -1,0 +1,25 @@
+﻿  pch.cpp
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(147,36): error C2059: syntax error: ')'
+  (compiling source file 'pch.cpp')
+  
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(147,36): error C2760: syntax error: '}' was unexpected here; expected ';'
+  (compiling source file 'pch.cpp')
+  
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(148,5): error C2059: syntax error: 'delete'
+  (compiling source file 'pch.cpp')
+  
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(149,5): error C2059: syntax error: 'return'
+  (compiling source file 'pch.cpp')
+  
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(150,1): error C2059: syntax error: '}'
+  (compiling source file 'pch.cpp')
+  
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(150,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'pch.cpp')
+  
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(154,73): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'pch.cpp')
+  
+C:\Users\pc\source\repos\MyDynamicLibrairyStack\LinkedList.h(154,73): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'pch.cpp')
+  
